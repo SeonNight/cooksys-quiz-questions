@@ -1,9 +1,9 @@
 {
   "name": "js-assignment-promises",
   "version": "1.0.0",
-  "main": "index.js",
-  "repository": "https://github.com/wmarttala/js-assignment-promises.git",
-  "author": "Will Marttala <wmarttala123@gmail.com>",
+  "main": "lib/index.js",
+  "repository": "https://github.com/cooksystemsinc/js-assignment-3-SeonNight.git",
+  "author": "Seong Kim",
   "license": "MIT",
   "scripts": {
     "prestart": "babel src -d lib",
