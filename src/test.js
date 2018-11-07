@@ -69,6 +69,7 @@ describe('createPrompt', () => {
       createPrompt(r).length === (r.numQuestions + (r.numQuestions * r.numChoices))
     )
   )
+
 })
 
 describe('createQuestions', () => {
