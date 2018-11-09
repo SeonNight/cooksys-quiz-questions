@@ -1,0 +1,217 @@
+[
+  {
+    "type": "input",
+    "name": "question-13-choice-4",
+    "message": "Enter answer choice 4 for question 13"
+  },
+  {
+    "type": "input",
+    "name": "question-20-choice-4",
+    "message": "Enter answer choice 4 for question 20"
+  },
+  {
+    "type": "input",
+    "name": "question-41",
+    "message": "Enter question 41"
+  },
+  {
+    "type": "input",
+    "name": "question-37-choice-2",
+    "message": "Enter answer choice 2 for question 37"
+  },
+  {
+    "type": "input",
+    "name": "question-12-choice-1",
+    "message": "Enter answer choice 1 for question 12"
+  },
+  {
+    "type": "input",
+    "name": "question-42-choice-4",
+    "message": "Enter answer choice 4 for question 42"
+  },
+  {
+    "type": "input",
+    "name": "question-20-choice-1",
+    "message": "Enter answer choice 1 for question 20"
+  },
+  {
+    "type": "input",
+    "name": "question-23-choice-1",
+    "message": "Enter answer choice 1 for question 23"
+  },
+  {
+    "type": "input",
+    "name": "question-6-choice-2",
+    "message": "Enter answer choice 2 for question 6"
+  },
+  {
+    "type": "input",
+    "name": "question-49-choice-4",
+    "message": "Enter answer choice 4 for question 49"
+  },
+  {
+    "type": "input",
+    "name": "question-19-choice-3",
+    "message": "Enter answer choice 3 for question 19"
+  },
+  {
+    "type": "input",
+    "name": "question-41-choice-3",
+    "message": "Enter answer choice 3 for question 41"
+  },
+  {
+    "type": "input",
+    "name": "question-41-choice-2",
+    "message": "Enter answer choice 2 for question 41"
+  },
+  {
+    "type": "input",
+    "name": "question-33-choice-2",
+    "message": "Enter answer choice 2 for question 33"
+  },
+  {
+    "type": "input",
+    "name": "question-5",
+    "message": "Enter question 5"
+  },
+  {
+    "type": "input",
+    "name": "question-25-choice-3",
+    "message": "Enter answer choice 3 for question 25"
+  },
+  {
+    "type": "input",
+    "name": "question-36-choice-4",
+    "message": "Enter answer choice 4 for question 36"
+  },
+  {
+    "type": "input",
+    "name": "question-49-choice-3",
+    "message": "Enter answer choice 3 for question 49"
+  },
+  {
+    "type": "input",
+    "name": "question-31",
+    "message": "Enter question 31"
+  },
+  {
+    "type": "input",
+    "name": "question-32-choice-1",
+    "message": "Enter answer choice 1 for question 32"
+  },
+  {
+    "type": "input",
+    "name": "question-16-choice-1",
+    "message": "Enter answer choice 1 for question 16"
+  },
+  {
+    "type": "input",
+    "name": "question-42",
+    "message": "Enter question 42"
+  },
+  {
+    "type": "input",
+    "name": "question-8-choice-4",
+    "message": "Enter answer choice 4 for question 8"
+  },
+  {
+    "type": "input",
+    "name": "question-24",
+    "message": "Enter question 24"
+  },
+  {
+    "type": "input",
+    "name": "question-34-choice-2",
+    "message": "Enter answer choice 2 for question 34"
+  },
+  {
+    "type": "input",
+    "name": "question-36",
+    "message": "Enter question 36"
+  },
+  {
+    "type": "input",
+    "name": "question-26-choice-2",
+    "message": "Enter answer choice 2 for question 26"
+  },
+  {
+    "type": "input",
+    "name": "question-27-choice-3",
+    "message": "Enter answer choice 3 for question 27"
+  },
+  {
+    "type": "input",
+    "name": "question-43-choice-2",
+    "message": "Enter answer choice 2 for question 43"
+  },
+  {
+    "type": "input",
+    "name": "question-18",
+    "message": "Enter question 18"
+  },
+  {
+    "type": "input",
+    "name": "question-14-choice-1",
+    "message": "Enter answer choice 1 for question 14"
+  },
+  {
+    "type": "input",
+    "name": "question-15",
+    "message": "Enter question 15"
+  },
+  {
+    "type": "input",
+    "name": "question-17-choice-1",
+    "message": "Enter answer choice 1 for question 17"
+  },
+  {
+    "type": "input",
+    "name": "question-13-choice-1",
+    "message": "Enter answer choice 1 for question 13"
+  },
+  {
+    "type": "input",
+    "name": "question-37",
+    "message": "Enter question 37"
+  },
+  {
+    "type": "input",
+    "name": "question-14-choice-2",
+    "message": "Enter answer choice 2 for question 14"
+  },
+  {
+    "type": "input",
+    "name": "question-35-choice-1",
+    "message": "Enter answer choice 1 for question 35"
+  },
+  {
+    "type": "input",
+    "name": "question-47",
+    "message": "Enter question 47"
+  },
+  {
+    "type": "input",
+    "name": "question-34",
+    "message": "Enter question 34"
+  },
+  {
+    "type": "input",
+    "name": "question-16-choice-4",
+    "message": "Enter answer choice 4 for question 16"
+  },
+  {
+    "type": "input",
+    "name": "question-35-choice-3",
+    "message": "Enter answer choice 3 for question 35"
+  },
+  {
+    "type": "input",
+    "name": "question-50-choice-4",
+    "message": "Enter answer choice 4 for question 50"
+  },
+  {
+    "type": "input",
+    "name": "question-4-choice-4",
+    "message": "Enter answer choice 4 for question 4"
+  }
+]
